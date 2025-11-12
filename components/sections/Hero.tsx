@@ -3,6 +3,9 @@
 import { motion } from "framer-motion"
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar"
 
+// Get basePath for GitHub Pages
+const basePath = process.env.NODE_ENV === 'production' ? '/new_portfolio' : ''
+
 export default function Hero() {
   const containerVariants = {
     hidden: { opacity: 0 },
@@ -39,7 +42,7 @@ export default function Hero() {
             <motion.div variants={itemVariants} className="mb-4">
               <Avatar className="h-24 w-24 mx-auto lg:mx-0 mb-4 border-4 border-primary">
                 <AvatarImage 
-                  src="/pro_pic.jpeg" 
+                  src={`${basePath}/pro_pic.jpeg`}
                   alt="Sai Sriram Kurapati"
                   className="object-cover"
                 />
