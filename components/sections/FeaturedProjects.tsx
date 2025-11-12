@@ -14,7 +14,7 @@ const featuredProjects = [
     description:
       "A collaborative memory platform that helps teams capture what they notice and act on it together.",
     tech: ["Next.js 15", "FastAPI", "Supabase"],
-    visit: "https://remembly.com",
+    visit: "https://remembly.space",
     gradientClass: "from-blue-500/20 via-purple-500/10 to-blue-500/20",
     hoverGradientClass: "group-hover:from-blue-500/30 group-hover:via-purple-500/20 group-hover:to-blue-500/30",
     titleClass: "text-2xl md:text-3xl mb-1 text-blue-500 transition-colors",

@@ -20,7 +20,7 @@ const projects = [
       "PostgreSQL",
       "TypeScript",
     ],
-    visit: "https://remembly.com",
+    visit: "https://remembly.space",
   },
   {
     title: "Vaaata - AI Powered Bill Splitting Tool",
