@@ -18,7 +18,7 @@ const experiences = [
       "Owned feature development across multi-product Agwise Platform, serving 5K+ users and improving reliability.",
       "Built an OpenAI Vision agent to parse PDF lab reports, reducing manual entry and boosting adoption.",
       "Built automated data workflows processing 100K+ records/week, tripling throughput.",
-      "Developed stratification engine visualizing agricultural zones, improving sampling accuracy by 35%.",
+      "Developed an AI-driven stratification engine combining satellite segmentation and SSURGO data to generate sampling zones, powering AgWise's soil recommendations and improving sampling accuracy by 35%.",
       "Built FoliarWise mobile app, increasing user adoption by 30%.",
       "Created AI assistant reducing agronomist support time by 40%.",
       "Modernized legacy silo apps by migrating them to Next.js and Express and centralizing Supabase auth and Stripe billing, improving upgrade/payment flow success by 30% and reducing duplicated code by 50%.",
