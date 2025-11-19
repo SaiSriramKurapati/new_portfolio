@@ -42,7 +42,7 @@ const experiences = [
     location: "India",
     role: "Software Engineer",
     type: "Full-Time",
-    period: "Jan 2021 – Aug 2022",
+    period: "Jan 2020 – Aug 2022",
     achievements: [
       "Contributed to Titan's smartwatch ecosystem connecting 1M+ active devices, improving telemetry uptime to 99.98% and reducing data latency by 40%.",
       "Built analytics and alert pipeline enabling personalized user notifications (battery, sleep, inactivity), driving 28% higher re-engagement.",

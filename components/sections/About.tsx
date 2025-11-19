@@ -29,7 +29,7 @@ export default function About() {
           <div className="space-y-4 text-muted-foreground leading-relaxed">
             <p>
               I'm a Software Engineer passionate about building scalable systems and
-              delivering exceptional user experiences. With over 4 years of experience,
+              delivering exceptional user experiences. With over 5 years of experience,
               I've worked across the full stack, from architecting backend systems to
               crafting intuitive frontend interfaces.
             </p>
